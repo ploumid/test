@@ -2,7 +2,7 @@
 
 int main(int argc, char** argv) {
 
-	printf("Remote test\n");
+	printf("Remote test updated by the original repository\n");
 
 	return 1;
 }
